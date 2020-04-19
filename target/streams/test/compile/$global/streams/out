@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\paolo.santilli2\Desktop\Unibo\Scalable and Cloud Programming\weather_forecast\src\test\scala\org\weather\model\data\DataTests.scala:14:72: value FileOperations is not a member of org.weather.model.data.CommonData.codes[0m
+[0m[[0m[31merror[0m] [0m[0m    val data = FileOperations.getMappingData.map(x => Array(x._1, x._2.FileOperations, x._2.bomCode).mkString(CommonData.defaultWriteSep)).toArray[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\paolo.santilli2\Desktop\Unibo\Scalable and Cloud Programming\weather_forecast\src\test\scala\org\weather\model\data\DataTests.scala:15:17: diverging implicit expansion for type scala.math.Ordering[(Nothing, Nothing)][0m
+[0m[[0m[31merror[0m] [0m[0mstarting with method Tuple2 in object Ordering[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(data.sorted.deep === CommonData.cities.sorted.deep)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

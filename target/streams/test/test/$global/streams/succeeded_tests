@@ -1,0 +1,5 @@
+#Successful Tests
+#Mon Apr 13 18:58:05 CEST 2020
+org.weather.model.forecast.TestInitalProcess=1586533537182
+org.weather.model.forecast.TestPredictFunctions=1586797084198
+org.weather.model.data.TestGetDataAndFileOperations=1586797085268

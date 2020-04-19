@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestPredictFunctions:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test Arima Forecast[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Predict outlook function test & boundary conditions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test execution of steps for forecasting for Melbourne[0m[0m

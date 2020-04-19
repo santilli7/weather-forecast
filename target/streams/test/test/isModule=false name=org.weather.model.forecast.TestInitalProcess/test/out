@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestInitalProcess:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test Mandotry Parms checking[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test to Check all parms are pased correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test invalid Month exception[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test invalid Year exception[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test valid date out of range exception[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parsing of valid date[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test exception for invalid min & max dates[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test download File[0m[0m
